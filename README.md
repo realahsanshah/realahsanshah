@@ -45,12 +45,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
-## GitHub Stats
-
-![Ahsan's GitHub stats](https://github-readme-stats.vercel.app/api?username=realahsanshah&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realahsanshah&layout=compact&theme=radical)
-
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/realsashah)
